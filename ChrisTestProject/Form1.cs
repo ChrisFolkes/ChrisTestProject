@@ -19,7 +19,7 @@ namespace ChrisTestProject
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello Git - this is my first change!");
+            MessageBox.Show("Hello Git - this is my first change on my VDI!");
         }
     }
 }
